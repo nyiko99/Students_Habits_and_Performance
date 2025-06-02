@@ -1,1 +1,2 @@
 # Students_Habits_and_Performance
+This repository details the analysis of a dataset containing 80,000 rows of student data, aimed at uncovering how student habits affect their performance. We employed an ETL (Extract, Transform, Load) process to extract data from Kaggle, published it through Google Sheets, and loaded it into Databricks for data cleansing and analysis. Finally, we visualized our findings using Power BI.
